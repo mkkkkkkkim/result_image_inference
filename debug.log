@@ -1,0 +1,23 @@
+[24/Mar/2020 09:35:27] DEBUG [image_test.views:24] Called GET
+[24/Mar/2020 09:37:20] DEBUG [image_test.views:24] Called GET
+[24/Mar/2020 09:37:37] DEBUG [image_test.views:24] Called GET
+[24/Mar/2020 09:38:03] DEBUG [image_test.views:24] Called GET
+[24/Mar/2020 09:38:19] DEBUG [image_test.views:24] Called GET
+[24/Mar/2020 09:38:42] DEBUG [image_test.views:24] Called GET
+[24/Mar/2020 09:38:59] DEBUG [image_test.views:24] Called GET
+[24/Mar/2020 09:38:59] INFO [image_test.views:32] Params : (scr666, 2, ResNet152V2, 10001523.0, 10001523.0)
+[24/Mar/2020 09:38:59] DEBUG [image_test.ai:33] Start creating model for <scr666 2>, 2020-03-24 09:38:59.180251
+[24/Mar/2020 09:59:05] DEBUG [image_test.views:24] Called GET
+[24/Mar/2020 09:59:05] INFO [image_test.views:32] Params : (scr666, 2, ResNet152V2, 10001523.0, 10001523.0)
+[24/Mar/2020 09:59:05] DEBUG [image_test.ai:33] Start creating model for <scr666 2>, 2020-03-24 09:59:05.560691
+[24/Mar/2020 11:02:34] DEBUG [image_test.views:24] Called GET
+[24/Mar/2020 11:02:34] INFO [image_test.views:32] Params : (scr666, 2, ResNet152V2, 10001523.0, 10001523.0)
+[24/Mar/2020 11:02:34] DEBUG [image_test.ai:33] Start creating model for <scr666 2>, 2020-03-24 11:02:34.894852
+[24/Mar/2020 11:03:38] DEBUG [image_test.views:24] Called GET
+[24/Mar/2020 11:03:58] DEBUG [image_test.views:24] Called GET
+[28/Apr/2020 15:57:45] DEBUG [image_test.views:24] Called GET
+[28/Apr/2020 15:57:45] INFO [image_test.views:32] Params : (scr013, 7, RESNET, 7.0, 1.0)
+[28/Apr/2020 15:57:45] DEBUG [image_test.ai:33] Start creating model for <scr013 7>, 2020-04-28 15:57:45.053240
+[28/Apr/2020 16:01:47] DEBUG [image_test.views:24] Called GET
+[28/Apr/2020 16:01:47] INFO [image_test.views:32] Params : (scr013, 7, RESNET, 7.0, 1.0)
+[28/Apr/2020 16:01:47] DEBUG [image_test.ai:33] Start creating model for <scr013 7>, 2020-04-28 16:01:47.328271
